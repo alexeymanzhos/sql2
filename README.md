@@ -45,4 +45,4 @@
 
 ### Решение 3
 
-![alt text](https://github.com/alexeymanzhos/sql2/blob/main/img/three.jpg)
+![alt text](https://github.com/alexeymanzhos/sql2/blob/main/img/three2.jpg)
